@@ -71,7 +71,7 @@
   "daResolveWindow": 160,
   "daBondSize": 1000000,
   "daResolverRefundPercentage": 0,
-  "babylonFinalityGadgetChainType": -1,
+  "babylonFinalityGadgetChainID": "chain-test",
   "babylonFinalityGadgetContractAddress": "bbn1eyfccmjm6732k7wp4p6gdjwhxjwsvje44j0hfx8nkgrm8fs7vqfsa3n3gc",
   "babylonFinalityGadgetBitcoinRpc": "https://rpc.ankr.com/btc"
 }
